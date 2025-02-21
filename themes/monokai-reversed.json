@@ -49,8 +49,8 @@
                 // "deleted": "#fc6a67",
                 // "created": "#a9dc76",
                 // "warning": "#ffd866",
-                // "hint": "#ab9df2aa",
-                // "hint.background": "#ab9df230",
+                "hint": "#857bbc",
+                "hint.background": "#302f43",
                 // "error": "#fc6a67",
                 // "error.background": "#620402",
                 "error.border": "#fc6a67",
@@ -58,7 +58,6 @@
                 "scrollbar.thumb.background": "#98a2b530",
                 "scrollbar.thumb.border": "transparent",
                 "scrollbar.track.background": "transparent",
-
                 "editor.foreground": "#D0D3DA",
                 "editor.background": "#12141a",
                 "editor.gutter.background": "#12141a",
@@ -73,8 +72,6 @@
                 "hidden.background": "#212430",
                 "error": "#fc6a67",
                 "error.background": "#212430",
-                "hint": "#707481",
-                "hint.background": "#212430",
                 "info": "#78dce8",
                 "info.background": "#212430",
                 "conflict": "#fc9867",
@@ -118,32 +115,32 @@
                     {
                         "background": "#FFD86680",
                         "cursor": "#FFD866",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     },
                     {
                         "background": "#e991e380",
                         "cursor": "#e991e3",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     },
                     {
                         "background": "#78dce880",
                         "cursor": "#78dce8",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     },
                     {
                         "background": "#ab9df280",
                         "cursor": "#ab9df2",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     },
                     {
                         "background": "#78e8c680",
                         "cursor": "#78e8c6",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     },
                     {
                         "background": "#ff618880",
                         "cursor": "#ff6188",
-                        "selection": "#98A2B50C"
+                        "selection": "#98A2B51C"
                     }
                 ],
                 "syntax": {
@@ -168,7 +165,7 @@
                         "font_weight": null
                     },
                     "constant": {
-                        "color": "#FC6A67",
+                        "color": "#ff6188",
                         "font_style": null,
                         "font_weight": null
                     },
