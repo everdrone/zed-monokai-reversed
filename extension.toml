@@ -2,6 +2,6 @@ id = "monokai-reversed"
 name = "Monokai Reversed Theme"
 version = "0.0.2"
 schema_version = 1
-authors = ["Giorgio Tropiano <giorgiotropiano@gmail.com>"]
+authors = ["everdrone"]
 description = "Zed port of Bearded Monokai Reversed"
 repository = "https://github.com/everdrone/zed-monokai-reversed"
